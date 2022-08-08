@@ -1,0 +1,21 @@
+id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status,stroke
+9046,Male,67,0,1,Yes,Private,Urban,228.69,36.6,formerly smoked,1
+51676,Female,61,0,0,Yes,Self-employed,Rural,202.21,N/A,never smoked,1
+31112,Male,80,0,1,Yes,Private,Rural,105.92,32.5,never smoked,1
+60182,Female,49,0,0,Yes,Private,Urban,171.23,34.4,smokes,1
+1665,Female,79,1,0,Yes,Self-employed,Rural,174.12,24,never smoked,1
+56669,Male,81,0,0,Yes,Private,Urban,186.21,29,formerly smoked,1
+53882,Male,74,1,1,Yes,Private,Rural,70.09,27.4,never smoked,1
+10434,Female,69,0,0,No,Private,Urban,94.39,22.8,never smoked,1
+27419,Female,59,0,0,Yes,Private,Rural,76.15,N/A,Unknown,1
+60491,Female,78,0,0,Yes,Private,Urban,58.57,24.2,Unknown,1
+24009,Male,4,0,0,No,children,Urban,94.23,16.2,Unknown,0
+61694,Male,55,0,0,Yes,Self-employed,Rural,111.36,33.6,never smoked,0
+7453,Female,44,0,0,Yes,Private,Urban,84.07,21.2,smokes,0
+66405,Female,31,0,0,Yes,Private,Urban,117.31,28.4,never smoked,0
+2138,Male,58,0,0,Yes,Govt_job,Urban,84.94,N/A,never smoked,0
+66650,Female,17,0,0,No,Private,Urban,68.86,41.1,never smoked,0
+59945,Female,23,0,0,No,Private,Urban,132.88,24.9,never smoked,0
+16245,Male,51,1,0,Yes,Self-employed,Rural,211.83,56.6,never smoked,0
+68094,Female,46,0,0,Yes,Private,Rural,124.92,28.8,Unknown,0
+64661,Female,81,0,0,No,Self-employed,Urban,57.42,33.7,never smoked,0
