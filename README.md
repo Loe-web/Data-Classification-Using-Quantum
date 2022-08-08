@@ -1,3 +1,3 @@
-##Intro to Github
+## Intro to Github
 
 Hapana yakanyanya. Just exploring github
